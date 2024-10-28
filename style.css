@@ -1,0 +1,41 @@
+body {
+    background-image: url('city.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  tr {
+    color: white;
+  }
+  form {
+    color: white;
+  }
+  
+  h1 {
+    font-family: "Cursive", Lucida;
+      color: #bfe1fa;
+      text-align: center;
+  }
+  
+  .div5 {
+      color: yellow;
+  }
+
+label {
+display: block;
+font: 1rem 'Fira Sans', sans-serif;
+}
+
+input, label {
+margin: .4rem 0;
+}
+
+
+.search {
+  border: 1px solid white;
+}
+
+.searchtext {
+    color: white;
+}
